@@ -1,0 +1,15 @@
+[package]
+name = "ReliefChain"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ReliefChain="fe3f904f61cb1e528aa15e4af437f56b96fc1e50492f78cf2f78180f4cbe3033"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
