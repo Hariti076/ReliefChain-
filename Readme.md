@@ -84,5 +84,7 @@ Contact: For questions, partnerships, or support, reach out to our team through 
 
 Contract Details
 0xba99c169b78baa9038bbde9f82f0bec175cca6bec4b28424a6226ee9a7364558 ![alt text](image.png)
-P.Lakshmi Hariti P.Vaishnavi P.Jayalakshmi
+P.Lakshmi Hariti 
+P.Vaishnavi
+ P.Jayalakshmi
 PPT Link:https://docs.google.com/presentation/d/1EsH10fZ6tqDNNzpV7sxmq_
