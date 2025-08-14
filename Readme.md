@@ -83,6 +83,6 @@ Research Data Platform: Anonymous disaster impact data for academic and policy r
 Contact: For questions, partnerships, or support, reach out to our team through our official website or social media channel.
 
 Contract Details
-0xba99c169b78baa9038bbde9f82f0bec175cca6bec4b28424a6226ee9a7364558 alt text
+0xba99c169b78baa9038bbde9f82f0bec175cca6bec4b28424a6226ee9a7364558 ![alt text](image.png)
 P.Lakshmi Hariti P.Vaishnavi P.Jayalakshmi
 PPT Link:https://docs.google.com/presentation/d/1EsH10fZ6tqDNNzpV7sxmq_
