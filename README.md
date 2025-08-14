@@ -98,7 +98,9 @@ Our vision extends beyond simple fund distribution to creating a comprehensive d
 - *Research Data Platform*: Anonymous disaster impact data for academic and policy research
 
 ## Contract Details
-0xba99c169b78baa9038bbde9f82f0bec175cca6bec4b28424a6226ee9a7364558 ![alt text](image.png)
+0xba99c169b78baa9038bbde9f82f0bec175cca6bec4b28424a6226ee9a7364558 
+<img width="1603" height="914" alt="Screenshot 2025-08-13 145858" src="https://github.com/user-attachments/assets/8d4abd3c-a953-417f-a965-39897da74929" />
+
 ---
 P.Lakshmi Hariti 
 P.Vaishnavi
